@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>The Tribute Website | Narendra Damodardas Modi</title>
+	<link rel="stylesheet" href="irfan.css">
+</head>
+<body>
+	<div class="container">
+		<div class="content">
+		<section class="top_section">
+			<div class="image_container">
+				<img src="Modi.jpg" alt="Modi" height="160px" width="160px" alt="tribute"/>
+
+			</div>
+			<div>
+				<h1>Narendra Modi</h1>
+				<h4>Born: 17 September 1950</h4>
+			</div>
+		</section>
+	    <section class="about_section">
+		<h2>Current Prime Minister Of India</h2>
+		<p>
+		  <b>Damodardas Modi </b>(Gujarati: [ˈnəɾendɾə dɑmodəɾˈdɑs ˈmodiː] (listen);
+			 born 17 September 1950) [b] is an Indian politician serving as the 14th 
+			 and current prime minister of India since May 2014. Modi was the chief 
+			 minister of Gujarat from 2001 to 2014 and is the Member of Parliament from 
+			 Varanasi. He is a member of the Bharatiya Janata Party (BJP) and of the 
+			 Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindu nationalist paramilitary
+			 volunteer organisation. He is the longest-serving prime minister from outside
+			 the Indian National Congress. Modi was born and raised in Vadnagar in northeastern
+			 Gujarat, where he completed his secondary education. He was introduced to the RSS
+			 at age eight. He has reminisced about helping out after school at his father's tea
+			 stall at the Vadnagar railway station, a description not reliably corroborated.
+			 At age 18, he was married to Jashodaben Modi, whom he abandoned soon after. He
+			 first publicly acknowledged her as his wife more than four decades later when
+			 required to do so by Indian law, but has made no contact with her since. Modi
+			 has asserted he had travelled in northern India for two years after leaving 
+			 his parental home, visiting a number of religious centres, but few details 
+			 of his travels have emerged. Upon his return to Gujarat in 1971, he became 
+			 a full-time worker for the RSS. After the state of emergency was declared by
+			 Prime Minister Indira Gandhi in 1975, he went into hiding. The RSS assigned
+			 him to the BJP in 1985 and he held several positions within the party 
+			 hierarchy until 2001, rising to the rank of general secretary.
+		</p>
+
+	  </section>
+	  <section class="biography_section">
+		<h3>Biographies</h3>
+		<ul>
+		 <li>
+			Jashodaben, named by Narendra Modi as his wife, prays for him to become PM". NDTV.
+		    Press Trust of India. 11 April 2014. Archived from the original on 17 July 2020. 
+			Retrieved 12 June 2020.
+			</li>
+			<li>
+			  Asrar, Nadim (26 February 2014). "Narendra Modi's political journey from RSS 
+			  worker to BJP's PM candidate". NDTV. Archived from the original on 8 August 2020. 
+			  Retrieved 15 August 2015.
+			</li>
+			<li>
+			  PM Modi turns 69: A timeline of his political career". Deccan Herald. 17 September 2019. 
+			  Archived from the original on 15 January 2021. Retrieved 13 January 2021.
+			</li>
+			<li>
+				Tiwari, Ravish (27 November 2014). "The low-profile RSS apparatchik is the newface of 
+				power in the NDA". India Today. Retrieved 13 January 2021.
+			</li>
+			<li>
+				Kumar, Saurabh; Srivastava, Moulishree (29 December 2015). "Govt launches 22 new 
+				schemes under Digital India programme". Live Mint. Archived from the original on 8 
+				February 2017. Retrieved 17 February 2017.
+			</li>
+			<li>
+				India Gujarat Chief Minister Modi cleared in riots case". BBC News. BBC. 
+				10 April 2012. Archived from the original on 20 December 2016. Retrieved 
+				17 February 2017.
+			</li>
+			<li>
+				Robinson, Simon (11 December 2007). "India's Voters Torn Over Politician". 
+				Time. Archived from the original on 23 October 2013. Retrieved 10 October 2012.
+			</li>
+			<li>
+				Raina, Shilpa (14 March 2014). "Modi's life dominates publishing space (Election Special)". 
+				newkerala.com. Archived from the original on 15 March 2014. Retrieved 4 April 2014.
+			</li>
+		</ul>
+	 </section>
+	 <footer>
+		<p>
+			Read more about Narendra Damodardas Modi
+			<a href="https://en.wikipedia.org/wiki/Narendra_Modi#References">Wikipedia.</a> 
+		</p>
+	  </footer>
+	  <img src="Phonepe.jpg" height="25px" width="25px">
+	</div>
+ </div>
+</body>
+</html>
